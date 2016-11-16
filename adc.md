@@ -1,8 +1,7 @@
 # ADC
+![](adc.png)
 
 Analog sinyalleri dijital sinyallere dönüştürmemizi sağlayan gömülü sistemlerin vazgeçilmez bir elektronik parçasıdır. **A**nalog to **D**igital **C**onverter olarak kısaltması açılabilir. Adc devreleri, referans noktası ile ölçülmek istenen noktadaki voltaj farkından yola çıkarak cinsine bağlı olarak n-bit'te dijital değerler verebilir. Bit değerleri adc'nin çözünürlüğünü belirler.
-
-![](adc.png)
 
 Örneğin: 3 bit çözünürlüğe sahip bir adc devresi, aralığı 2 üzeri 3 _(8)_ parçaya böler. Referans ile giriş noktası arasında 5V fark olsun. Voltajın okunacağı alanda 2V olsun. Bu durumda adc'nin çözünürlüğünden dolayı 5V 8'e bölünecek ve her bir parça 0.625V olacaktır.
 
