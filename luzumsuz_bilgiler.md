@@ -25,17 +25,4 @@ Gömülü sistemlere örnek olarak aşağıdaki maddeler verilebilir;
 
 Gömülü sistemlerde kullanılan yazılımlara **firmware** denir. _(Sorabilir yani hafız)_ Bu yazılımlar rom bellek üzerinde kayıtlı bir biçimde kullanılır.
 
-Gömülü sistemlerin işletim sistemi olabilir, gömülü sistemlerde kullanılan bazı işletim sistemleri;
-
-* Ecos
-* freeRTOS
-* Gömülü Linux
-* JavaOS
-* LynxOS
-* Mobilinux
-* NucleusRTOS
-* PalmOS
-* Prex
-* VxWorks
-* Windows XP Embedded
 
