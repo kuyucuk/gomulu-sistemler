@@ -1,0 +1,2 @@
+# Lüzumsuz bilgiler.md
+
