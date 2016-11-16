@@ -1,4 +1,4 @@
 # Summary
 
-* Lüzumsuz bilgiler.md
+* [Lüzumsuz bilgiler.md](luzumsuz_bilgiler.md)
 
