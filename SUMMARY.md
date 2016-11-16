@@ -1,0 +1,4 @@
+# Summary
+
+* Lüzumsuz bilgiler.md
+
