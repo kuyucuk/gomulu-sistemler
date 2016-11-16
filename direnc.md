@@ -7,7 +7,9 @@ Dirençlerin üzerinde hangi ohm olduğunu gösteren renkler vardır.
 Bu renkler sırasıyla,
 
 | Renk | 1. band | 2. band | 3.band (çarpan) | 4.band (tolerans) |
+
 | -- | -- | -- | -- | -- |
+
 | Siyah | 0 | 0 | 10^0 | - |  
 | Kahverengi | 1 | 1 | 10^1 | +1% |  
 | Kırmızı | 2 | 2 | 10^2 | +2% |  
