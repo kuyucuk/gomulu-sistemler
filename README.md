@@ -11,5 +11,6 @@ Bu kitapçık sana armağan olsun yiğidim.
 ### İçindekiler
 
 [1. Lüzumsuz bilgiler](luzumsuz_bilgiler.md)
+
 [2. ADC](adc.md)
 
