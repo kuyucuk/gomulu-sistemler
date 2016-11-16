@@ -6,3 +6,11 @@ Yanlışlıkla dersi seçtiysen,
 Yok ben gömerim dediysen, 
 
 Bu kitapçık sana armağan olsun yiğidim.
+
+
+### İçindekiler
+
+[1. Lüzumsuz bilgiler](Lüzumsuz bilgiler.md)
+
+
+
