@@ -1,5 +1,5 @@
 # Summary
 
-* [Lüzumsuz bilgiler.md](luzumsuz_bilgiler.md)
+* [Lüzumsuz bilgiler](luzumsuz_bilgiler.md)
 * ADC
 
