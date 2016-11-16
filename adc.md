@@ -23,3 +23,6 @@ Bu 3 değerini nasıl gönderecek diye sormak isteyebilirsiniz. Ne kadar hödük
 
 Adc devreleri ne kadar şahane olsalarda bazı zamanlarda 10 bit adc hatta 20 bit adc bile işimizi görmeyebilir. Ne kadar manyak çılgın olduğumuza bağlı. [Mesela bu step motorlar](https://www.youtube.com/watch?v=1F4-plhdnj0)
 
+Çözünürlüğü attırmak demek ölçülebilecek voltaj aralığını daraltmak demektir. Tabi ki gidip daha yüksek çözünürlükte adc alabilirsiniz anladık zenginsiniz. _(:P)_ 5V-0V aralığını ölçmek yerine 1V-0V aralığını ölçün. 
+
+Örneğin: 3 bitlik adcmiz olsun _(işlem kolaylığı için küçük)_ 8 farklı parça anlamına geliyordu bu. 5V'i 8'e böldüğümüzde hassaslığımız 0,625V oluyordu. 1V'i 8'e bölersek hassaslığımız **0,125V** olacaktır. 
