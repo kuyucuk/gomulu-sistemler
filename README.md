@@ -1,4 +1,4 @@
-# gomulu-sistemler
+# Gömülü Sistemler
 Slayt okumak zorsa, 
 Murat hoca zorlarsa, 
 
