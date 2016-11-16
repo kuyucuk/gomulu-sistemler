@@ -21,5 +21,5 @@ Bu 3 değerini nasıl gönderecek diye sormak isteyebilirsiniz. Ne kadar hödük
 
 ### Çözünürlüğü arttırmak
 
-Adc devreleri ne kadar şahane olsalarda bazı zamanlarda 12 
+Adc devreleri ne kadar şahane olsalarda bazı zamanlarda 10 bit adc hatta 20 bit adc bile işimizi görmeyebilir. Ne kadar manyak çılgın olduğumuza bağlı. [Mesela bu step motorlar](https://www.youtube.com/watch?v=1F4-plhdnj0)
 
